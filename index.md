@@ -2,7 +2,7 @@
 
 ## Pagina de programación lineal
 
-¡[region factible](programacion-lineal1.png)
+![region factible](programacion-lineal1.png)
 
 En esta pagina voy a mostrar las cosas "magnificas" que estoy aprendiendo en el magnifico curso de programacion lineal
 
