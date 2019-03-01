@@ -13,8 +13,11 @@ Aprendimos a utilizar la biblioteca de sympy
 
 \( x_1 \geq 0 \)
 
-sujeto a: 
-$$ x_1 \geq 0 $$
+## Problemas
+
+Maximizar $x+y$
+
+sujeto a: $$x_1 \geq 0$$
 
 
 
