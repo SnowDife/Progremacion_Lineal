@@ -13,7 +13,8 @@ Aprendimos a utilizar la biblioteca de sympy
 
 \( x_1 \geq 0 \)
 
-$ x_1 \geq 0 $
+sujeto a: 
+$$ x_1 \geq 0 $$
 
 
 
