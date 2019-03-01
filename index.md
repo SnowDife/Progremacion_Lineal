@@ -11,7 +11,7 @@ Aprendimos a utilizar la biblioteca de sympy
 - [Pagina de Google](https://www.google.com/)
 - [Pagina de github](https://www.github.com/)
 
-\(x_1 \geq 0 \)
+\( x_1 \geq 0 \)
 
 
 
