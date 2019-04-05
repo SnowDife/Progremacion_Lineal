@@ -1,0 +1,55 @@
+#+title: Programacion Lineal 
+#+author: Leslie Guadalupe
+ 
+#+Options: H:2 
+
+* Teoria 
+** Motivacion 
+
+El objetivo de la programacion lineal es maximizar funciones lineales
+sobre dominios convexos, es decir, definidos sobre renglones dadas por desigualdades.
+
+[[file:programacion-lineal1.png]]
+
+** Ejemplos 
+
+- El problema de la dieta2
+- Optimizacion de lugares en una excursion
+- Escoger objetos optimos para un campamento
+- EL problema del flujo maximo 
+
+** Convexidad 
+
+Un conjunto \(X\) es *convexo* si para todo \(x,y\in X  \) y \(t\in 
+[0,1]  \) se tiene que \(tx+(1-t)y\in X \)
+n
+
+** El Metodo SImplex 
+
+* Herramientas computacionales
+
+** Emacs
+
+| C-X C-S         | Salvar archivo          |
+| C-x C-F         | Abrir archivo           |
+| M-X             | Formatear el parrafo    |
+| C-X d           | Editar directorios      |
+| C-G             | Salir                   |
+| C-X 1           | Divide la pantalla en 1 |
+| C-X 2           | Divide en horizontal    |
+| C-X 3           | Divide en  vertical     |
+| M-W             | Copiar la region        |
+| C-w             | Borrar la region        |
+| Shift y flechas | Seleccionar la region   |
+| C-y             | Pegar la region         |
+
+** Git 
+*** Github en la terminal 
+*** Github
+** Python
+*** EL lenguaje de Python
+*** Jupyter
+** Latex 
+
+
+
