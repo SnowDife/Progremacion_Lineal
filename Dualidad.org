@@ -8,8 +8,6 @@ La dualidad es una manera de asociar un cierto problema de
 programacion lineal a cada problema de programacion lineal.
 
 * Ejemplo 
-
-* Teoremas 
 Consideremos el siguiente problema: 
 
  \begin{equation*}
@@ -25,3 +23,5 @@ Consideremos el siguiente problema:
      \end{aligned}
    \end{aligned}
    \end{equation*}
+
+* Teoremas
