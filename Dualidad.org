@@ -10,11 +10,11 @@ programacion lineal a cada problema de programacion lineal.
 * Ejemplo 
 
 * Teoremas 
-COnsideremos el siguiente problema: 
+Consideremos el siguiente problema: 
 
  \begin{equation*}
    \begin{aligned}
-   \text{Maximizar} \quad & 2x_{1}+3x_{2}
+   \text{Maximizar} \quad & 2x_{1}+3x_{2}\\
    \text{sujeto a} \quad &
      \begin{aligned}
       4x_{1}+3x_{2} &\leq 12\\
