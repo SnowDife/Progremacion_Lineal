@@ -33,3 +33,6 @@ programacion lineal a cada problema de programacion lineal.
 - El siguiente... 
 
 * Teoremas
+
+  Demostraremos que el minimo del problema dual es igual al maximo del
+  problema primitivo.
